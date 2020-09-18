@@ -1,0 +1,30 @@
+.form-group .form-label{
+    color: #818181;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+.form-group{
+    text-align: left;
+}
+.form-group {
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+.form-group  input[type=date]{
+      padding: 5px;
+      border-radius: 5px;
+  }
+  .form-group  input{
+   color: black;
+   font-weight: bold;
+}
+   
+  .form-group  input:hover{
+    border: 2px solid tan;
+  }
+  .form-group  input:focus{
+    border: 2px solid teal;
+  }

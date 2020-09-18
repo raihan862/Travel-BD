@@ -1,0 +1,24 @@
+.login-form{
+    background-color: white; 
+    padding: 10px 20px;
+     width:400px;
+     margin:auto;
+     margin-top: 20px;
+     border: 1px solid  #818181;
+     padding: 10px ;
+}
+.form-group{
+    padding-bottom: 10px;
+}
+.form-group  .form-control{
+     border: none;
+     border-bottom: 1px solid #818181;
+     font-size: 16px;
+     font-weight: 500;
+     
+ }
+ 
+ .form-group  .form-control:focus,.form-group  .form-control:hover{
+    border: none;
+    border-bottom: 1px solid springgreen;
+ }

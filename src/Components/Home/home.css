@@ -1,0 +1,30 @@
+ .parent{
+    position: relative;
+    top: 100px;
+}
+.card-container{
+    position: absolute;
+    right: -40px;
+     
+}
+
+.card-container .col{
+      width:200px;
+     height:300px;
+     background-size: cover;
+    background-position:center;
+   
+    margin-left:10px;
+      
+    border-radius: 20px;
+}
+.card-container .col h4{
+    position: absolute;
+    bottom: 10px;
+}
+.active{
+    border: 2px solid yellow;
+}
+.description{
+    text-align: left;
+}

@@ -1,0 +1,25 @@
+.sigining-btn{
+      
+     border: 1px solid #818181;
+     border-radius: 20px;
+     width: 450px;
+     padding: 10px;
+     margin: auto;
+     margin-top: 10px;
+     position: relative;
+     display: block;
+ }
+ .sigining-btn:nth-child(0){
+     
+    margin-top: 0px;
+    
+}
+ .sigining-logo{
+     position: absolute;
+     left: 10px;
+     top:4px;
+      
+     text-align: left;
+     width: 37px;
+ }
+ 
