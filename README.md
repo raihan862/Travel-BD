@@ -9,6 +9,7 @@ This is a online turist booking site. this project is basicaly a frontend based 
  ## Key Features:
  - This site has only  user panel.
  - User have to login for any kind of booking activity.
+ - user can login user facebook account or google account
  - User can select specific turist place 
  - User can also select the starting date and pickup point
  - user can also select hotel in the selected location
